@@ -7,15 +7,19 @@ O código foi desenvolvido em Python e usa pacotes como `azure-ai-textanalytics`
 
 
 
-## Demonstração
+## 📸 Prints do Projeto
 
+### 🔹 Exemplo de Saída no Terminal
 ![Print do Terminal rodando a análise](./assets/print1.png)
 
-./assets/print2.png
-./assets/print3.png
-./assets/print4.png
-./assets/print5.png
-./assets/print6.png
+### 🔹 Exemplo de Saída na Plataforma da Azure
+![Saída na Azure](./assets/print2.png)
+![Saída na Azure](./assets/print3.png)
+![Saída na Azure](./assets/print4.png)
+![Saída na Azure](./assets/print5.png)
+![Saída na Azure](./assets/print6.png)
+
+
 
 ## Requisitos
 
