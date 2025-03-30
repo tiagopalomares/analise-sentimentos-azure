@@ -1,7 +1,7 @@
-from azure.ai.textanalytics import TextAnalyticsClient
-from azure.core.credentials import AzureKeyCredential
+from azure.ai.textanalytics import TextAnalyticsClient # type: ignore
+from azure.core.credentials import AzureKeyCredential # type: ignore
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 
 # Carregar as variáveis do arquivo .env
 load_dotenv()
