@@ -16,7 +16,7 @@ def autenticar_cliente():
 cliente = autenticar_cliente()
 
 # Lendo frases do arquivo
-with open("../inputs/frases.txt", "r", encoding="utf-8") as arquivo:
+with open("./inputs/frases.txt", "r", encoding="utf-8") as arquivo:
     frases = [linha.strip() for linha in arquivo.readlines()]
 
 # Enviar frases para análise
