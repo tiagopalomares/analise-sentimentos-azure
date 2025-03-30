@@ -1,12 +1,14 @@
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
-import os 
-endpoint = os.getenv("AZURE_ENDPOINT") 
-api_key = os.getenv("AZuRE_API_KEY")
+import os
+from dotenv import load_dotenv
 
-# Configuração do Azure
-API_KEY = "jIv1xxciIorBWK7uEhxabt7cwdjJiLgXIk57ZI7BLgTkAUjmtcAGJQQJ99BCACYeBjFXJ3w3AAAaACOGKEne"
-ENDPOINT = "https://languageidiomadiolab.cognitiveservices.azure.com/"
+# Carregar as variáveis do arquivo .env
+load_dotenv()
+
+# Pegar as variáveis de ambiente
+API_KEY = os.getenv("AZURE_API_KEY")
+ENDPOINT = os.getenv("AZURE_ENDPOINT")
 
 def autenticar_cliente():
     return TextAnalyticsClient(endpoint=ENDPOINT, credential=AzureKeyCredential(API_KEY))
