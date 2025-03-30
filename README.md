@@ -9,7 +9,7 @@ O código foi desenvolvido em Python e usa pacotes como `azure-ai-textanalytics`
 
 ## Demonstração
 
-./assets/Captura de tela de 2025-03-30 16-32-29.png
+![Print do Terminal rodando a análise](./assets/Captura de tela de 2025-03-30 16-32-29.png)
 
 ./assets/Captura de tela de 2025-03-30 16-36-31.png
 ./assets/Captura de tela de 2025-03-30 16-37-36.png
