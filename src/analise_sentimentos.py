@@ -1,5 +1,8 @@
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
+import os 
+endpoint = os.getenv("AZURE_ENDPOINT") 
+api_key = os.getenv("AZuRE_API_KEY")
 
 # Configuração do Azure
 API_KEY = "jIv1xxciIorBWK7uEhxabt7cwdjJiLgXIk57ZI7BLgTkAUjmtcAGJQQJ99BCACYeBjFXJ3w3AAAaACOGKEne"
