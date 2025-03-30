@@ -13,7 +13,10 @@ O código foi desenvolvido em Python e usa pacotes como `azure-ai-textanalytics`
 ![Print do Terminal rodando a análise](./assets/print1.png)
 
 ### 🔹 Exemplo de Saída na Plataforma da Azure
+### Entrada
 ![Saída na Azure](./assets/print2.png)
+
+### Saídas
 ![Saída na Azure](./assets/print3.png)
 ![Saída na Azure](./assets/print4.png)
 ![Saída na Azure](./assets/print5.png)
