@@ -9,13 +9,13 @@ O código foi desenvolvido em Python e usa pacotes como `azure-ai-textanalytics`
 
 ## Demonstração
 
-![Print do Terminal rodando a análise](./assets/Captura de tela de 2025-03-30 16-32-29.png)
+![Print do Terminal rodando a análise](./assets/print1.png)
 
-./assets/Captura de tela de 2025-03-30 16-36-31.png
-./assets/Captura de tela de 2025-03-30 16-37-36.png
-./assets/Captura de tela de 2025-03-30 16-37-51.png
-./assets/Captura de tela de 2025-03-30 16-38-11.png
-./assets/Captura de tela de 2025-03-30 16-38-33.png
+./assets/print2.png
+./assets/print3.png
+./assets/print4.png
+./assets/print5.png
+./assets/print6.png
 
 ## Requisitos
 
