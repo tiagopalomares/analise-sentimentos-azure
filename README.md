@@ -9,13 +9,15 @@ O código foi desenvolvido em Python e usa pacotes como `azure-ai-textanalytics`
 
 ## Demonstração
 
-<img src="/assets/Captura de tela de 2025-03-30 16-32-29.png>
+./assets/Captura de tela de 2025-03-30 16-32-29.png
 
-<img src="/assets/Captura de tela de 2025-03-30 16-36-31.png>
-<img src="/assets/Captura de tela de 2025-03-30 16-37-36.png>
-<img src="/assets/Captura de tela de 2025-03-30 16-37-51.png>
-<img src="/assets/Captura de tela de 2025-03-30 16-38-11.png>
-<img src="/assets/Captura de tela de 2025-03-30 16-38-33.png>## Requisitos
+./assets/Captura de tela de 2025-03-30 16-36-31.png
+./assets/Captura de tela de 2025-03-30 16-37-36.png
+./assets/Captura de tela de 2025-03-30 16-37-51.png
+./assets/Captura de tela de 2025-03-30 16-38-11.png
+./assets/Captura de tela de 2025-03-30 16-38-33.png
+
+## Requisitos
 
 - Python 3.7 ou superior
 - Conta no **Azure** com acesso à API de Análise de Sentimentos
